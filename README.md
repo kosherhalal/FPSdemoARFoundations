@@ -1,2 +1,2 @@
 # FPSdemoARFoundations
-Adding ARFoundations features and touch input for mobile to the Unity FPS Tutorial sample 
+Adding ARFoundations features and Mobile support for the Unity FPS example project 
